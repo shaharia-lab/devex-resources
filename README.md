@@ -26,6 +26,8 @@ This repository serves as a curated collection of valuable resources focused on 
 
 - [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html)
 
+- [Developer experience: What is it and why should you care?](https://github.blog/enterprise-software/collaboration/developer-experience-what-is-it-and-why-should-you-care/)
+
 ## Other Resources
 
 - [State of DevOps Report 2023](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
