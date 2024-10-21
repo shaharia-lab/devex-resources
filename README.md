@@ -1,5 +1,7 @@
 # DevEx Resources
 
+:octocat: [GitHub Repo](https://github.com/shaharia-lab/devex-resources) | 🔗 [resources.devex.dev](https://resources.devex.dev) | :pencil: [Add new resource](https://github.com/shaharia-lab/devex-resources/edit/main/README.md)
+
 This repository serves as a curated collection of valuable resources focused on improving developer experience (DevEx) and measuring developer productivity. From comprehensive frameworks and insightful research papers to practical articles and tools, these resources aim to help teams and organizations enhance their software development processes and outcomes.
 
 ## Frameworks
